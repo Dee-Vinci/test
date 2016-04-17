@@ -1,8 +1,8 @@
-// Program of circular linked list
+
 #include <stdio.h>
 #include <malloc.h>
 #include<stdlib.h>
-
+//Yo
 struct node
 {
 	int info;
